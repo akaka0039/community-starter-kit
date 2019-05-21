@@ -2,13 +2,15 @@
 
 DESCRIPTION PLACEHOLDER
 
+i'm japanese. so i can't understand English very well.
 ## What it does
-test for comment to practice github
+
 
 FEATURES PLACEHOLDER
 
+i'm gonna be engineer
 ## Getting started
-i dont know
+
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
